@@ -101,13 +101,13 @@ function displayGreeting() {
         msg = "Have a Soft & Snuggly Sunday !"; 
     }
     else if (day == 1) { 
-        msg = "Have an Marvelously Made Monday!"; 
+        msg = "Have a Marvelously Made Monday!"; 
     }
     else if (day == 2) { 
         msg = "Have a Tangle-Free Tuesday!"; 
     }
     else if (day == 3) { 
-        msg = "Have a Whimsy & Wonderful Wednesday!"; 
+        msg = "Have a Whimsical & Wonderful Wednesday!"; 
     }
     else if (day == 4) { 
         msg = "Have a Threaded Thursday!"; 
